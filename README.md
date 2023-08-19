@@ -1,7 +1,7 @@
 # FiveM_NoMoreStuntJumps
 Removal of a lot of stunts and normal jumps on the GTA V's map
 
-Stunts Removed :<br />
+Removed stunts :<br />
   Vinewood Hills :<br />
     #11 <br />
   Little Seoul :<br />
