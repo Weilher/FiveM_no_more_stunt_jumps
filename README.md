@@ -1,33 +1,33 @@
 # FiveM_NoMoreStuntJumps
 Removal of a lot of stunts and normal jumps on the GTA V's map
 
-Stunts Removed :
-  Vinewood Hills :
-    #11 
-  Little Seoul :
-    #2
-    #46
-  Pillbox, Mision Row & Textile City :
-    #6
-  La Mesa :
-    #24
-  Davis & Rancho :
-    #17
-  Banning :
-    #22
-  La Puerta :
-    #26
-  Los Santos International Airport :
-    #27
-  Port of South LS : 
-    #31
-    #34
-    #35
-    #36
-    #37
-    #38
-    #39
-    #40
+Stunts Removed :<br />
+  Vinewood Hills :<br />
+    #11 <br />
+  Little Seoul :<br />
+    #2<br />
+    #46<br />
+  Pillbox, Mision Row & Textile City :<br />
+    #6<br />
+  La Mesa :<br />
+    #24<br />
+  Davis & Rancho :<br />
+    #17<br />
+  Banning :<br />
+    #22<br />
+  La Puerta :<br />
+    #26<br />
+  Los Santos International Airport :<br />
+    #27<br />
+  Port of South LS : <br />
+    #31<br />
+    #34<br />
+    #35<br />
+    #36<br />
+    #37<br />
+    #38<br />
+    #39<br />
+    #40<br />
 
-Known bugs :
+Known bugs :<br />
 colisions still here on #24 stunt jump
