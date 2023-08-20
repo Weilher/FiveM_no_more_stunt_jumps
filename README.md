@@ -30,4 +30,4 @@ Removed stunts :<br />
     #40<br />
 
 Known bugs :<br />
-colisions still here on #24 stunt jump
+Collisions are still here on #24 stunt jump, if anyone knows how I can remove them it will be very helpful. I tried to delete/remove them but it's just still here in game and I don't know why.
