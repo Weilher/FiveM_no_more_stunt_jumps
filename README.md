@@ -32,7 +32,7 @@ Removed stunts, base on [this](https://gta-5-map.com/) map : <br />
     #40<br />
 
 Credits : <br/>
-I based myself on [this](https://github.com/TayMcKenzieNZ/MapFixes/) resource made by [TayMcKenzieNZ](https://github.com/taymckenzienz) and [LUKY00010](https://forum.cfx.re/u/luky00010/), so thanks to them !
+I based myself on [MapFixes](https://github.com/TayMcKenzieNZ/MapFixes/) resource made by [TayMcKenzieNZ](https://github.com/taymckenzienz) and [LUKY00010](https://forum.cfx.re/u/luky00010/), so thanks to them !
 
 Known bugs : <br/>
 Collisions are still here on #24 stunt jump, if anyone knows how I can remove them it will be very helpful. I tried to delete/remove them but it's just still here in game and I don't know why.
