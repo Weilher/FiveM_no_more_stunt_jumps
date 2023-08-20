@@ -3,7 +3,7 @@ Removing a lot of stunts and normal jumps on the GTA V map. <br />
 
 I was tired of seing jumps all over the map, so I decided to remove a lot of "stunts" and a few "normal" jumps. <br />
 
-**Removed stunts, base on [this](https://gta-5-map.com/) map :** <br />
+**Removed stunts, based on [this](https://gta-5-map.com/) map :** <br />
   Vinewood Hills :<br />
     #11 <br />
   Little Seoul :<br />
