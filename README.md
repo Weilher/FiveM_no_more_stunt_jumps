@@ -8,7 +8,7 @@ Removed stunts :<br />
     #2<br />
     #46<br />
   Pillbox, Mision Row & Textile City :<br />
-    #6<br />
+     #6<br />
   La Mesa :<br />
     #24<br />
   Davis & Rancho :<br />
