@@ -4,34 +4,9 @@ Removing a lot of stunts and normal jumps on the GTA V map. <br />
 I was tired of seing jumps all over the map, so I decided to remove a lot of "stunts" and a few "normal" jumps. <br />
 
 **Removed stunts, based on [this](https://gta-5-map.com/) map :** <br />
-  Vinewood Hills :<br />
-    #11 <br />
-  Little Seoul :<br />
-    #2<br />
-    #46<br />
-  Pillbox, Mision Row & Textile City :<br />
-     #6<br />
-  La Mesa :<br />
-    #24<br />
-  Davis & Rancho :<br />
-    #17<br />
-  Banning :<br />
-    #22<br />
-  La Puerta :<br />
-    #26<br />
-  Los Santos International Airport :<br />
-    #27<br />
-  Port of South LS : <br />
-    #31<br />
-    #34<br />
-    #35<br />
-    #36<br />
-    #37<br />
-    #38<br />
-    #39<br />
-    #40<br />
+![no_more_stunt_jumps](https://github.com/Weilher/FiveM_No_Stunt_Jumps/assets/82490121/03285bc9-2dc9-42b6-a3bb-2217793470ac)
 
-**Some pictures :**
+**Some other pictures :**
 ![elysian_island](https://github.com/Weilher/FiveM_No_Stunt_Jumps/assets/82490121/4b025cd5-0b8b-45ca-bad4-c305ae28428f)
 ![elysian_island_2](https://github.com/Weilher/FiveM_No_Stunt_Jumps/assets/82490121/ad1ca67c-0958-4f02-8d9c-db5cc80e5d55)
 ![elysian_island_3](https://github.com/Weilher/FiveM_No_Stunt_Jumps/assets/82490121/2a1aef27-d0ab-4523-8bb6-51edd0a41f7f)
