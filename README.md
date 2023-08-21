@@ -4,7 +4,7 @@ Removing a lot of stunts and normal jumps on the GTA V map. <br />
 I was tired of seing jumps all over the map, so I decided to remove a lot of "stunts" and a few "normal" jumps. <br />
 
 **Removed stunts, based on [this](https://gta-5-map.com/) map :** <br />
-![no_more_stunt_jumps](https://github.com/Weilher/FiveM_No_Stunt_Jumps/assets/82490121/03285bc9-2dc9-42b6-a3bb-2217793470ac)
+![no_more_stunt_jumps](https://github.com/Weilher/FiveM_No_Stunt_Jumps/assets/82490121/2809ce4c-b22f-4e8a-8d62-3c5a5514083a)
 
 **Some other pictures :**
 ![elysian_island](https://github.com/Weilher/FiveM_No_Stunt_Jumps/assets/82490121/4b025cd5-0b8b-45ca-bad4-c305ae28428f)
