@@ -8,7 +8,7 @@ I was tired of seing jumps all over the map, so I decided to remove a lot of "st
 - Removed 1 jump in "Del Perro".
 - Removed 2 jumps in "Rockford Hills".
 - Removed 1 jump in "Sandy Shores".
-- Update checker added to resource
+- "Update checker" added to resource
 
 **Removed stunts, based on [this](https://gta-5-map.com/) map :** <br />
 ![no_more_stunt_jumps](https://github.com/Weilher/FiveM_No_Stunt_Jumps/assets/82490121/2809ce4c-b22f-4e8a-8d62-3c5a5514083a)
