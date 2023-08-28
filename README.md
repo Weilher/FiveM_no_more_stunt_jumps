@@ -5,6 +5,7 @@ I was tired of seing jumps all over the map, so I decided to remove a lot of "st
 
 **Patchnote 1.1 :** <br/>
 - Fixed collision bugs on stunt jump #24
+- Fixed collision bugs on stunt jump #25
 - Removed 1 jump in "Del Perro".
 - Removed 2 jumps in "Rockford Hills".
 - Removed 1 jump in "Sandy Shores".
