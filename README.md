@@ -13,7 +13,6 @@ I was tired of seing jumps all over the map, so I decided to remove a lot of "st
 
 **Removed stunts, based on [this](https://gta-5-map.com/) map :** <br />
 ![no_more_stunt_jumps](https://github.com/Weilher/FiveM_no_more_stunt_jumps/assets/82490121/8d9ffedc-64c1-42ff-a2cf-4edfc5642479)
-)
 
 **Some other pictures :**
 ![elysian_island](https://github.com/Weilher/FiveM_No_Stunt_Jumps/assets/82490121/4b025cd5-0b8b-45ca-bad4-c305ae28428f)
