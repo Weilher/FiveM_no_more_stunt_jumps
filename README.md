@@ -1,4 +1,5 @@
 # FiveM_NoMoreStuntJumps
+<1.1>
 Removing a lot of stunts and normal jumps on the GTA V map. <br />
 
 I was tired of seing jumps all over the map, so I decided to remove a lot of "stunts" and a few "normal" jumps. <br />
