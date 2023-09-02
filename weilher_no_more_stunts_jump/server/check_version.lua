@@ -9,10 +9,10 @@ local function CheckVersion()
         gray = "^7",
     }
     
-    local resource_name = color.red .. "[no_more_stunt_jumps]"
-    local github_link = "https://github.com/Weilher/FiveM_No_Stunt_Jumps"
+    local resource_name = color.red .. "[weilher_no_more_stunt_jumps]"
+    local github_link = "https://github.com/Weilher/FiveM_no_more_stunt_jumps"
     
-    PerformHttpRequest('https://raw.githubusercontent.com/Weilher/FiveM_No_Stunt_Jumps/master/version.txt', function(err, newestVersion, headers)
+    PerformHttpRequest('https://raw.githubusercontent.com/Weilher/FiveM_no_more_stunt_jumps/main/version.txt', function(err, newestVersion, headers)
         local currentVersion = GetResourceMetadata(GetCurrentResourceName(), 'version')
 
         if not newestVersion then 
