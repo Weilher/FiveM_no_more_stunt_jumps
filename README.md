@@ -3,6 +3,10 @@ Removing a lot of stunts and normal jumps on the GTA V map. <br />
 
 I was tired of seing jumps all over the map, so I decided to remove a lot of "stunts" and a few "normal" jumps. <br />
 
+**Patchnote 1.1.2 :** <br/>
+- Removed 1 mini ramp in Mirror Park
+- Removed 1 concrete stunt in Sandy Shores
+
 **Patchnote 1.1.1 :** <br/>
 - Fixed collisions
 - Fixed some LODs
